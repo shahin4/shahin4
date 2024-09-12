@@ -23,11 +23,3 @@ I'm a passionate **MERN Stack Developer** with a knack for crafting seamless and
 
 ---
 
-Feel free to tweak it to better match your personal style and preferences! How does this sound to you?
-
-উত্স: Copilot-এর সাথে কথোপকথন, 9/12/2024
-(1) MERN Stack Developer Job Description: Guide, Templates & Interview .... https://graffersid.com/mern-stack-developer-job-description/.
-(2) shahinadev (Shahin Alam) - GitHub. https://github.com/shahinadev.
-(3) Md Shadab Alam | MERN Stack Developer. https://www.mohdshadab.com/.
-(4) Mern Stack Developer Job Description - Skillvertex Blog. https://www.skillvertex.com/blog/mern-stack-developer-job-description/.
-(5) MERN Stack Developer: Qualifications, Roles and Responsibilities.. https://arctutorials.com/mern-stack-developer-qualifications-roles-and-responsibilities/.
